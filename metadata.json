@@ -1,0 +1,7 @@
+{
+  "name": "Phoenix Ascent",
+  "description": "A world-class AI-driven development ecosystem that transforms spoken natural language into production-ready code using the Gemini 3 Pro model.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
